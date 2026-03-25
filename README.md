@@ -3,8 +3,6 @@
 ## 💫 About Me
 Full-stack developer with expertise in web development, data science, and modern technologies. Passionate about building scalable applications, leveraging machine learning, and creating efficient solutions. I work across the entire stack from backend APIs to responsive frontends, with a strong focus on clean code and best practices.
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@alsir) 
 
 ## 🚀 Key Skills & Expertise
 - **Backend Development:** Building robust APIs and server-side applications with Laravel, Django, and PHP
